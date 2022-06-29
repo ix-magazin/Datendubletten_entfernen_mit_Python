@@ -1,6 +1,6 @@
 # Datendubletten_erkennen_und_entfernen
 
-Artikel von Dr. Roland Pleger, erschienen im [iX-Magazin](https://www.heise.de/select/ix/) 08/2022. 
+Quellcode zum Praxis-Artikel von Dr. Roland Pleger, erschienen im [iX-Magazin](https://www.heise.de/select/ix/) 08/2022. 
 
 
 ## iX-tract
