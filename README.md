@@ -1,6 +1,6 @@
 # Datendubletten entfernen mit Python
 
-Quellcode zum Praxis-Artikel von Dr. Roland Pleger, erschienen im [iX-Magazin](https://www.heise.de/select/ix/) 08/2022. 
+Quellcode zum Praxis-Artikel von Dr. Roland Pleger, erschienen im [iX-Magazin 08/2022](https://www.heise.de/select/ix/2022/8) 08/2022. 
 
 
 ## iX-tract
