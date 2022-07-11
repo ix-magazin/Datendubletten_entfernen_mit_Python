@@ -1,6 +1,6 @@
 # Datendubletten entfernen mit Python
 
-Quellcode zum [Praxis-Artikel](https://www.heise.de/select/ix/2022/82212612504066891412) von Dr. Roland Pleger, erschienen auf Heise online(LINK) im [iX-Magazin 09/2022](https://www.heise.de/select/ix/2022/9). 
+Quellcode zum [Praxis-Artikel](https://www.heise.de/select/ix/2022/82212612504066891412) von Dr. Roland Pleger, erschienen auf Heise online(LINK) und im [iX-Magazin 09/2022](https://www.heise.de/select/ix/2022/9). 
 
 ## iX-tract
 - Doppeleinträge in Datenbanken und anderen Datenquellen aufgrund von Fehlern bei der Dateneingabe sind ein Ärgernis.
